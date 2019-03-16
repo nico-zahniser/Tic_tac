@@ -106,7 +106,7 @@ while play:
             if again.lower() == "y":
                 print("restarting!")
             elif again.lower() == "n":
-                print("Byeeeee!!!")
+                print("Byee :)!!!")
                 play = False
             else:
                 print("Not a valid answer, but... c ya!")
